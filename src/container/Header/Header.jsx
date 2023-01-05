@@ -15,7 +15,7 @@ const Header = () => (
         Let it be the land, but let us live in old age. Seasoning of the disease
         is easier than chocolate. And, in the end, there is a lot of ground.
       </p>
-      <button type="button" className="custom__buttom">
+      <button type="button" className="custom__button">
         Explore Menu
       </button>
     </div>
