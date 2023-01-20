@@ -50,7 +50,7 @@ const Gallery = () => {
               className="app__gallery-images_card  flex__center"
               key={`gallery-image-${index + 1}`}
             >
-              <img src={image} alt="gallery image" />
+              <img src={image} alt="foto instagram" />
               <BsInstagram className="gallery__image-icon" />
             </div>
           ))}
