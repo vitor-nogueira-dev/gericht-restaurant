@@ -25,6 +25,7 @@ const Footer = () => (
           of others.&quot;
         </p>
         <img
+          alt="colher"
           src={images.spoon}
           className="spoon__img"
           style={{ marginTop: 15 }}
